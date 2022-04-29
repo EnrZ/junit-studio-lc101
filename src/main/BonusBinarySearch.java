@@ -23,6 +23,7 @@ public class BonusBinarySearch {
             } else {
                 return mid;
             }
+            System.out.println();
         }
         return -1;
     }
